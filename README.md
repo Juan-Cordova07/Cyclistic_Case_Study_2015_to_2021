@@ -247,17 +247,17 @@ library(scales)
 
 ![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2015.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2016.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2017.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2018.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2019.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2020.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-18-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2021.png)<!-- -->
 
 ##### End stations
 
