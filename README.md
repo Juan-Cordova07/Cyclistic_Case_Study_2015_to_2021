@@ -237,11 +237,11 @@ library(scales)
 
 ##### Start stations
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/star_g_5.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/star_g_6.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/star_g_7.png)<!-- -->
 
 -   Start stations distribution per year and user type
 
