@@ -173,7 +173,7 @@ library(scales)
 
 -   Preview of the dataset used from 2015 to 2021
 
-![skim_screenshot.](C_vizz_15_21/skim_image.png)
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/skim_image.png)<!-- -->
 
 -   Show first 5 rows
 
