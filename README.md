@@ -261,11 +261,11 @@ library(scales)
 
 ##### End stations
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_g_15.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-20-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_g_16.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-21-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_g_17.png)<!-- -->
 
 -   End stations distribution per year and user type
 
