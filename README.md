@@ -269,19 +269,19 @@ library(scales)
 
 -   End stations distribution per year and user type
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-22-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2015.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2016.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-24-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2017.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-25-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2018.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-26-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2019.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-27-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2020.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-28-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2021.png)<!-- -->
 
 ##### Full trip routes
 
