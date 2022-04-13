@@ -393,7 +393,7 @@ library(scales)
 
 ##### Number of trips for day of the year
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-59-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/trips_everyday.png)<!-- -->
 
 #### 6 Bikes used in 2020 and 2021
 
