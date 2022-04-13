@@ -311,7 +311,7 @@ library(scales)
 
 ##### Trips per month from 2015 to 2021
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-39-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/trips_month.png)<!-- -->
 
 ``` r
 # Percentage of casual riders from Jun, Jul, Aug
@@ -329,7 +329,7 @@ library(scales)
 
 -   General from 2015 to 2021
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-41-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/trips_wday.png)<!-- -->
 
 ``` r
 # Percentage of casual riders from Sat - Sun
