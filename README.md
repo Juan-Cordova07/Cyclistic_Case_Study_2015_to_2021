@@ -293,19 +293,19 @@ library(scales)
 
 -   Trip routes distribution per year and user type
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-32-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2015.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-33-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2016.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-34-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2017.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-35-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2018.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-36-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2019.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-37-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2020.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-38-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2021.png)<!-- -->
 
 #### 5 Analysis by time
 
