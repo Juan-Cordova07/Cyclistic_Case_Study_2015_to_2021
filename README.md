@@ -377,19 +377,19 @@ library(scales)
 
 -   Hour of the day of per month each year
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-52-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2015.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-53-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2016.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-54-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2017.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-55-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2018.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-56-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2019.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-57-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2020.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-58-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2021.png)<!-- -->
 
 ##### Number of trips for day of the year
 
