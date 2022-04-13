@@ -285,11 +285,11 @@ library(scales)
 
 ##### Full trip routes
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-29-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_g_25.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-30-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_g_26.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-31-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_g_27.png)<!-- -->
 
 -   Trip routes distribution per year and user type
 
