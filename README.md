@@ -401,7 +401,7 @@ library(scales)
 
 #### 7 Aged from 2015 to 2019 (annual members)
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-61-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/age_am.png)<!-- -->
 
 ``` r
 # Percentage between 25 and 35 years old 
