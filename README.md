@@ -362,7 +362,7 @@ library(scales)
 
 -   General from 2015 to 2021
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-50-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/trips_hour.png)<!-- -->
 
 ``` r
 # Percentage of Annual member's peak hours - 8hrs and 17hrs
