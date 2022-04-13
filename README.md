@@ -344,19 +344,19 @@ library(scales)
 
 -   Day of the week per month each year
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-43-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2015.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-44-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2016.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-45-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2017.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-46-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2018.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-47-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2019.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-48-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2020.png)<!-- -->
 
-![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-49-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2021.png)<!-- -->
 
 ##### Hour of the day in each year
 
