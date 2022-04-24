@@ -255,7 +255,7 @@ ggplot(gg_year_obs)  +
                      breaks = seq(2015, 2021, by = 1))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 ``` r
 gg_usertype_f <- read_csv("C_vizz_15_21/3gg_usertype_f.csv")
@@ -270,7 +270,7 @@ ggplot(gg_usertype_f, aes(x="", y=num_obs, fill=new_usertype))+
   theme_void()
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 ``` r
 gg_usertype_y <- read_csv("C_vizz_15_21/4gg_usertype_y.csv")
@@ -293,7 +293,7 @@ ggplot(gg_usertype_y)  +
   scale_y_continuous(labels = paste(seq(0, 80, by = 20), "%"))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
 
 ``` r
 ggplot(gg_year_obs) +
@@ -312,7 +312,7 @@ ggplot(gg_year_obs) +
   scale_x_continuous(limits= c(2015,2021), breaks = seq(2015, 2021, by = 1))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
 
 ``` r
 gg_year_obs_2 <- read_csv("C_vizz_15_21/2_2gg_year_obs.csv")
@@ -336,7 +336,7 @@ ggplot(gg_year_obs_2) +
   scale_x_continuous(limits= c(2015,2021), breaks = seq(2015, 2021, by = 1))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
 
 #### 4 Analysis of the use of the stations
 
@@ -364,7 +364,7 @@ ggplot(gg_start_fu)+
   scale_y_continuous(labels = label_number(suffix = "k", scale = 1e-3))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/star_g_5.png)<!-- -->
 
 ``` r
 gg_start_st <- read_csv("C_vizz_15_21/6gg_start_st.csv")
@@ -390,7 +390,7 @@ The Casual Riders Top 5 Start stations represent the 14.9% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/star_g_6.png)<!-- -->
 
 ``` r
 t15_21 <- read_csv("C_vizz_15_21/7t15_21.csv")
@@ -415,7 +415,7 @@ ggplot(t15_21)+
   facet_wrap(~year_ot, ncol = 4)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/star_g_7.png)<!-- -->
 
 -   Start stations distribution per year and user type
 
@@ -445,7 +445,7 @@ The Casual Riders Top 5 Start stations represent the 18.56% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2015.png)<!-- -->
 
 ``` r
 t16_u <- read_csv("C_vizz_15_21/9t16_u.csv")
@@ -473,7 +473,7 @@ The Casual Riders Top 5 Start stations represent the 22.22% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2016.png)<!-- -->
 
 ``` r
 t17_u <- read_csv("C_vizz_15_21/10t17_u.csv")
@@ -501,7 +501,7 @@ The Casual Riders Top 5 Start stations represent the 23.8% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2017.png)<!-- -->
 
 ``` r
 t18_u <- read_csv("C_vizz_15_21/11t18_u.csv")
@@ -529,7 +529,7 @@ The Casual Riders Top 5 Start stations represent the 19.49% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2018.png)<!-- -->
 
 ``` r
 t19_u <- read_csv("C_vizz_15_21/12t19_u.csv")
@@ -557,7 +557,7 @@ The Casual Riders Top 5 Start stations represent the 17.74% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2019.png)<!-- -->
 
 ``` r
 t20_u <- read_csv("C_vizz_15_21/13t20_u.csv")
@@ -586,7 +586,7 @@ The Casual Riders Top 5 Start stations represent the 7.1% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2020.png)<!-- -->
 
 ``` r
 t21_u <- read_csv("C_vizz_15_21/14t21_u.csv")
@@ -614,7 +614,7 @@ The Casual Riders Top 5 Start stations represent the 9.34% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-18-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/sta_2021.png)<!-- -->
 
 ##### End stations
 
