@@ -639,7 +639,7 @@ ggplot(gg_end_fu)+
   scale_y_continuous(labels = label_number(suffix = " k", scale = 1e-3))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_g_15.png)<!-- -->
 
 ``` r
 gg_end_st <- read_csv("C_vizz_15_21/16gg_end_st.csv")
@@ -665,7 +665,7 @@ The Casual Riders Top 5 End stations represent the 16.1% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-20-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_g_16.png)<!-- -->
 
 ``` r
 t15_21_e <- read_csv("C_vizz_15_21/17t15_21_e.csv")
@@ -689,7 +689,7 @@ ggplot(t15_21_e)+
   facet_wrap(~year_ot, ncol = 4)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-21-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_g_17.png)<!-- -->
 
 -   End stations distribution per year and user type
 
@@ -719,7 +719,7 @@ The Casual Riders Top 5 End stations represent the 20.6% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-22-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2015.png)<!-- -->
 
 ``` r
 t16_u_e <- read_csv("C_vizz_15_21/19t16_u_e.csv")
@@ -747,7 +747,7 @@ The Casual Riders Top 5 End stations represent the 24.2% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2016.png)<!-- -->
 
 ``` r
 t17_u_e <- read_csv("C_vizz_15_21/20t17_u_e.csv")
@@ -775,7 +775,7 @@ The Casual Riders Top 5 End stations represent the 25.4% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-24-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2017.png)<!-- -->
 
 ``` r
 t18_u_e <- read_csv("C_vizz_15_21/21t18_u_e.csv")
@@ -803,7 +803,7 @@ The Casual Riders Top 5 End stations represent the 21.1% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-25-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2018.png)<!-- -->
 
 ``` r
 t19_u_e <- read_csv("C_vizz_15_21/22t19_u_e.csv")
@@ -831,7 +831,7 @@ The Casual Riders Top 5 End stations represent the 19.4% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-26-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2019.png)<!-- -->
 
 ``` r
 t20_u_e <- read_csv("C_vizz_15_21/23t20_u_e.csv")
@@ -859,7 +859,7 @@ The Casual Riders Top 5 End stations represent the 7.55% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-27-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2020.png)<!-- -->
 
 ``` r
 t21_u_e <- read_csv("C_vizz_15_21/24t21_u_e.csv")
@@ -887,7 +887,7 @@ The Casual Riders Top 5 End stations represent the 9.78% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-28-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/end_2021.png)<!-- -->
 
 ##### Full trip routes
 
@@ -912,7 +912,7 @@ ggplot(gg_trip_fu)+
   scale_y_continuous(labels = label_number(suffix = "k", scale = 1e-3))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-29-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_g_25.png)<!-- -->
 
 ``` r
 gg_trip_st <- read_csv("C_vizz_15_21/26gg_trip_st.csv")
@@ -938,7 +938,7 @@ The Casual Riders Top 5 Trip routes represent the 2.75% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-30-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_g_26.png)<!-- -->
 
 ``` r
 t_rs_15_21 <- read_csv("C_vizz_15_21/27t_rs_15_21.csv")
@@ -962,7 +962,7 @@ ggplot(t_rs_15_21)+
   facet_wrap(~year_ot)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-31-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_g_27.png)<!-- -->
 
 -   Trip routes distribution per year and user type
 
@@ -992,7 +992,7 @@ The Casual Riders Top 5 Trip routes represent the 3.04% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-32-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2015.png)<!-- -->
 
 ``` r
 t_rs16_u <- read_csv("C_vizz_15_21/29t_rs16_u.csv")
@@ -1020,7 +1020,7 @@ The Casual Riders Top 5 Trip routes represent the 4.06% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-33-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2016.png)<!-- -->
 
 ``` r
 t_rs17_u <- read_csv("C_vizz_15_21/30t_rs17_u.csv")
@@ -1048,7 +1048,7 @@ The Casual Riders Top 5 Trip routes represent the 4.68% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-34-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2017.png)<!-- -->
 
 ``` r
 t_rs18_u <- read_csv("C_vizz_15_21/31t_rs18_u.csv")
@@ -1076,7 +1076,7 @@ The Casual Riders Top 5 Trip routes represent the 4.07% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-35-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2018.png)<!-- -->
 
 ``` r
 t_rs19_u <- read_csv("C_vizz_15_21/32t_rs19_u.csv")
@@ -1104,7 +1104,7 @@ The Casual Riders Top 5 Trip routes represent the 3.93% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-36-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2019.png)<!-- -->
 
 ``` r
 t_rs20_u <- read_csv("C_vizz_15_21/33t_rs20_u.csv")
@@ -1132,7 +1132,7 @@ The Casual Riders Top 5 Trip routes represent the 1.86% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-37-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2020.png)<!-- -->
 
 ``` r
 t_rs21_u <- read_csv("C_vizz_15_21/34t_rs21_u.csv")
@@ -1160,7 +1160,7 @@ The Casual Riders Top 5 Trip routes represent the 1.78% of their trips made"
   facet_wrap(~new_usertype)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-38-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/fr_2021.png)<!-- -->
 
 #### 5 Analysis by time
 
@@ -1197,7 +1197,7 @@ labs(title = "Trips per month according to the type of user from 2015 to 2021",
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-39-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/trips_month.png)<!-- -->
 
 ``` r
 # Percentage of casual riders from Jun, Jul, Aug
@@ -1243,7 +1243,7 @@ ggplot(gg_t_wday) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-41-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/trips_wday.png)<!-- -->
 
 ``` r
 # Percentage of casual riders from Sat - Sun
@@ -1291,7 +1291,7 @@ ggplot(gg_t_dwm_15) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-43-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2015.png)<!-- -->
 
 ``` r
 gg_t_dwm_16 <- read_csv("C_vizz_15_21/39gg_t_dwm_16.csv")
@@ -1326,7 +1326,7 @@ ggplot(gg_t_dwm_16) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-44-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2016.png)<!-- -->
 
 ``` r
 gg_t_dwm_17 <- read_csv("C_vizz_15_21/40gg_t_dwm_17.csv")
@@ -1361,7 +1361,7 @@ ggplot(gg_t_dwm_17) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-45-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2017.png)<!-- -->
 
 ``` r
 gg_t_dwm_18 <- read_csv("C_vizz_15_21/41gg_t_dwm_18.csv")
@@ -1396,7 +1396,7 @@ ggplot(gg_t_dwm_18) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-46-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2018.png)<!-- -->
 
 ``` r
 gg_t_dwm_19 <- read_csv("C_vizz_15_21/42gg_t_dwm_19.csv")
@@ -1431,7 +1431,7 @@ ggplot(gg_t_dwm_19) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-47-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2019.png)<!-- -->
 
 ``` r
 gg_t_dwm_20 <- read_csv("C_vizz_15_21/43gg_t_dwm_20.csv")
@@ -1466,7 +1466,7 @@ ggplot(gg_t_dwm_20) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-48-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2020.png)<!-- -->
 
 ``` r
 gg_t_dwm_21 <- read_csv("C_vizz_15_21/44gg_t_dwm_21.csv")
@@ -1501,7 +1501,7 @@ ggplot(gg_t_dwm_21) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-49-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/wday_m_2021.png)<!-- -->
 
 ##### Hour of the day in each year
 
@@ -1531,7 +1531,7 @@ ggplot(gg_t_hour) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-50-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/trips_hour.png)<!-- -->
 
 ``` r
 # Percentage of Annual member's peak hours - 8hrs and 17hrs
@@ -1577,7 +1577,7 @@ ggplot(gg_t_hdm_15) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-52-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2015.png)<!-- -->
 
 ``` r
 gg_t_hdm_16 <- read_csv("C_vizz_15_21/46gg_t_hdm_16.csv")
@@ -1610,7 +1610,7 @@ ggplot(gg_t_hdm_16) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-53-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2016.png)<!-- -->
 
 ``` r
 gg_t_hdm_17 <- read_csv("C_vizz_15_21/47gg_t_hdm_17.csv")
@@ -1643,7 +1643,7 @@ ggplot(gg_t_hdm_17) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-54-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2017.png)<!-- -->
 
 ``` r
 gg_t_hdm_18 <- read_csv("C_vizz_15_21/48gg_t_hdm_18.csv")
@@ -1676,7 +1676,7 @@ ggplot(gg_t_hdm_18) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-55-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2018.png)<!-- -->
 
 ``` r
 gg_t_hdm_19 <- read_csv("C_vizz_15_21/49gg_t_hdm_19.csv")
@@ -1709,7 +1709,7 @@ ggplot(gg_t_hdm_19) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-56-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2019.png)<!-- -->
 
 ``` r
 gg_t_hdm_20 <- read_csv("C_vizz_15_21/50gg_t_hdm_20.csv")
@@ -1742,7 +1742,7 @@ ggplot(gg_t_hdm_20) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-57-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2020.png)<!-- -->
 
 ``` r
 gg_t_hdm_21 <- read_csv("C_vizz_15_21/51gg_t_hdm_21.csv")
@@ -1775,7 +1775,7 @@ ggplot(gg_t_hdm_21) +
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-58-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/hr_m_2021.png)<!-- -->
 
 ##### Number of trips for day of the year
 
@@ -1801,7 +1801,7 @@ ggplot(gg_t_yday) +
   facet_wrap(~year_ot, ncol = 1)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-59-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/trips_everyday.png)<!-- -->
 
 #### 6 Bikes used in 2020 and 2021
 
@@ -1823,7 +1823,7 @@ ggplot(gg_by_u) +
   facet_wrap(~year_ot)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-60-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-60-1.png)<!-- -->
 
 #### 7 Aged from 2015 to 2019 (annual members)
 
@@ -1845,7 +1845,7 @@ ggplot(gg_age_15_19)+
   facet_wrap(~year_ot, ncol = 1)
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-61-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/age_am.png)<!-- -->
 
 ``` r
 # Percentage between 25 and 35 years old 
@@ -1876,7 +1876,7 @@ ggplot(gg_gender) +
                      breaks = seq(0, 80, by = 20))
 ```
 
-![](Code_Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-63-1.png)<!-- -->
+![](Cyclistic_CS_2015_2021_g_files/figure-gfm/unnamed-chunk-63-1.png)<!-- -->
 
 ### Findings pre-pandemic from 2015 to 2019
 
